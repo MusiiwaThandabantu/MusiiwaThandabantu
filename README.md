@@ -8,6 +8,7 @@ I’m a **Data Analyst**, passionate about turning raw data into actionable insi
 * **Power BI**
 * **Microsoft Excel (Advanced)**
 * **Google Looker Studio**
+* **Google BigQuery**
 * **Git Version Control**
 * **GitHub**
 
